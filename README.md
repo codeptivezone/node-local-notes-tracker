@@ -21,13 +21,13 @@ Local Notes Tracker is a Node.js-based application designed to streamline note-t
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/codeptivezone/local-notes-tracker.git
+   git clone https://github.com/codeptivezone/node-local-notes-tracker.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd local-notes-tracker
+   cd node-local-notes-tracker
    ```
 
 3. **Install dependencies:**
