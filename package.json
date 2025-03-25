@@ -13,8 +13,8 @@
     "Bootstrap",
     "fs"
   ],
-  "author": "Darshan Trambadiya",
-  "license": "ISC",
+  "author": "Codeptive",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.3",
     "ejs": "^3.1.10",
